@@ -1,0 +1,56 @@
+[
+  {
+    "name": "공존 테니스장 코트 1",
+    "type": "court",
+    "fee": 20000,
+    "unit": 60
+  },
+  {
+    "name": "공존 테니스장 코트 2",
+    "type": "court",
+    "fee": 30000,
+    "unit": 60
+  },
+  {
+    "name": "공존 테니스장 코트 3",
+    "type": "court",
+    "fee": 25000,
+    "unit": 60
+  },
+  {
+    "name": "서티올24 코트A",
+    "type": "machine",
+    "fee": 10000,
+    "unit": 30
+  },
+  {
+    "name": "서티올24 코트B",
+    "type": "machine",
+    "fee": 12000,
+    "unit": 30
+  },
+  {
+    "name": "서티올24 코트C",
+    "type": "machine",
+    "fee": 9000,
+    "unit": 30
+  },
+  {
+    "name": "클레이 테니스 아카데미 김코치",
+    "type": "lesson",
+    "fee": 30000,
+    "unit": 20
+  },
+  {
+    "name": "클레이 테니스 아카데미 박코치",
+    "type": "lesson",
+    "fee": 40000,
+    "unit": 20
+  },
+  {
+    "name": "클레이 테니스 아카데미 이코치",
+    "type": "lesson",
+    "fee": 60000,
+    "unit": 40
+  }
+]
