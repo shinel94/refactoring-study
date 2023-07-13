@@ -3,19 +3,22 @@
     "name": "공존 테니스장 코트 1",
     "type": "court",
     "fee": 20000,
-    "unit": 60
+    "unit": 60,
+    "mileage": 100
   },
   {
     "name": "공존 테니스장 코트 2",
     "type": "court",
     "fee": 30000,
-    "unit": 60
+    "unit": 60,
+    "mileage": 200
   },
   {
     "name": "공존 테니스장 코트 3",
     "type": "court",
     "fee": 25000,
-    "unit": 60
+    "unit": 60,
+    "mileage": 300
   },
   {
     "name": "서티올24 코트A",

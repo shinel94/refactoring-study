@@ -87,7 +87,7 @@ def main():
         for court_name, court_result in user['details'].items():
             result_string += f"  {court_name} - {court_result['used']}분 / {court_result['fee']}원\n"
         result_string += "-" * 20 + '\n'
-    result_string = "전체 코트 정산 결과\n"
+    result_string += "전체 코트 정산 결과\n"
     result_string += "-" * 20 + '\n'
     for court in result['court_result']:
         result_string += court["court_name"] + "정산 결과\n"

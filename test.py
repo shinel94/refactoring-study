@@ -1,5 +1,5 @@
 from unittest import TestCase, main
-from main import main as get_result
+from refactor import main as get_result
 
 class Study(TestCase):
 
